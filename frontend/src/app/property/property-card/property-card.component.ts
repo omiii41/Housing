@@ -1,6 +1,6 @@
 import { LIFECYCLE_HOOKS_VALUES } from '@angular/compiler/src/lifecycle_reflector';
 import { Component, Input, OnInit } from '@angular/core';
-import { IProperty } from './../IProperty';
+import { IPropertBase } from 'src/app/model/IPropertBase';
 
 @Component({
   selector: 'app-property-card',
@@ -8,5 +8,6 @@ import { IProperty } from './../IProperty';
   styleUrls: ['./property-card.component.css']
 })
 export class PropertyCardComponent {
-@Input() property: IProperty;
+@Input() property: IPropertBase;
+@Input() hideIcons: boolean;
 }
