@@ -1,0 +1,79 @@
+[
+  {
+    "Id": 1,
+    "SellRent":1,
+    "Name": "Omkar House",
+    "Type": "Apartment",
+    "Price": "48,900",
+    "Image":"prop_1"
+  },
+  {
+    "Id": 2,
+    "SellRent":1,
+    "Name": "Suraj House",
+    "Type": "Independent",
+    "Price": "35,000",
+    "Image":"prop_2"
+  },
+  {
+    "Id": 3,
+    "SellRent":2,
+    "Name": "Ajay House",
+    "Type": "Row House",
+    "Price": "12,000"
+  },
+  {
+    "Id": 4,
+    "SellRent":1,
+    "Name": "God Villa",
+    "Type": "Independent",
+    "Price": "50,000",
+    "Image":"prop_3"
+  },
+  {
+    "Id": 5,
+    "SellRent":2,
+    "Name": "Akash House",
+    "Type": "partment",
+    "Price": "52,000"
+  },
+  {
+    "Id": 6,
+    "SellRent":2,
+    "Name": "Kedar House",
+    "Type": "Apartment",
+    "Price": "22,000",
+    "Image":"prop_4"
+  },
+  {
+    "Id": 7,
+    "SellRent":1,
+    "Name": "Aishwarya House",
+    "Type": "Independent",
+    "Price": "28,400",
+    "Image":"prop_5"
+  },
+  {
+    "Id": 8,
+    "SellRent":1,
+    "Name": "Samarth Hights",
+    "Type": "Apartment",
+    "Price": "32,000",
+    "Image":"prop_6"
+  },
+  {
+    "Id": 9,
+    "SellRent":2,
+    "Name": "Shivaji House",
+    "Type": "Row House",
+    "Price": "62,000",
+    "Image":"prop_7"
+  },
+  {
+    "Id": 10,
+    "SellRent":1,
+    "Name": "Swami House",
+    "Type": "Apartment",
+    "Price": "56,000"
+  }
+]

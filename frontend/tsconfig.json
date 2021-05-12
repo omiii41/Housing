@@ -15,6 +15,10 @@
     "lib": [
       "es2018",
       "dom"
+    ],
+    "typeRoots": [
+      "node_module/@types",
+      "src/alertify.d.ts"
     ]
   },
   "angularCompilerOptions": {
