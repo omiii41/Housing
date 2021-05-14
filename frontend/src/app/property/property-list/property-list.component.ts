@@ -23,6 +23,7 @@ ngOnInit(): void {
   this.housingService.getAllProperties(this.SellRent).subscribe(
       data => {
             this.properties = data;
+
             console.log(data);
           }, error => {
             console.log('httperror:');

@@ -4,10 +4,10 @@ export interface IPropertBase {
   Name: string;
   PType: string;
   FType: string;
-  Price: string;
-  bhk: number;
-  BuiltArea: string;
-  city: string;
-  rtm: string;
+  Price: number;
+  BHK: number;
+  BuiltArea: number;
+  City: string;
+  RTM: number;
   Image?: string;
 }
