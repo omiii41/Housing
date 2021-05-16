@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "housing-ang"
+  },
+  "targets": {
+    "housing-ang": {
+      "hosting": {
+        "housing": [
+          "housing-ang"
+        ]
+      }
+    }
+  }
+}
